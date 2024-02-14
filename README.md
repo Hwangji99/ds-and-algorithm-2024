@@ -20,8 +20,14 @@
         - 입구가 하나 (선입후출, 후입선출)
         - pop - list.pop()
         - push - list.append()와 동일
+
+        ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
     - 큐 : First In First Out(FIFO)
+
         - 출구와 입구가 따로 있음
+
+        ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
+        
     - 트리
     - 그래프 
 
