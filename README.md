@@ -23,11 +23,10 @@
 
         ![stack](https://cs.lmu.edu/~ray/images/stack.gif)
     - 큐 : First In First Out(FIFO)
-
         - 출구와 입구가 따로 있음
 
-        ![queue](https://upload.wikimedia.org/wikipedia/commons/6/6d/QUEUE.png)
-        
+        ![queue](https://raw.githubusercontent.com/Hwangji99/ds-and-algorithm-2024/main/images/queue.png)
+
     - 트리
     - 그래프 
 
