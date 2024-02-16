@@ -39,9 +39,14 @@
 
     ![이진트리](https://kahee.github.io//assets/post_img/tree3.png)
 
-## 5일차
+## 5일차(2024-02-16)
 - 파이썬 자료구조 / 알고리즘
     - 그래프
+        - 깊이 우선 탐색의 작동(Depth First Search(DFS) -> Stack)
+        - 너비 우선 탐색의 작동(Breadth First Search(BFS) -> Queue)
+
+    ![graph](https://raw.githubusercontent.com/Hwangji99/ds-and-algorithm-2024/main/images/graph.png)
+
     - 재귀호출
     - 정렬
     - 검색
